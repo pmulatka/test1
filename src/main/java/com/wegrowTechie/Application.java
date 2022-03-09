@@ -16,7 +16,7 @@ public class Application {
 	@GetMapping
 	public String message() {
 		
-		return "Hi I friends, am there for help you ";
+		return "Hey Dear I am there to love you..you are so special for me ";
 	}
 
 }
